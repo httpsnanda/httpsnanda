@@ -39,9 +39,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/httpsnanda/httpsnanda/output/snake.svg" alt="Snake animation" />
-
-###
